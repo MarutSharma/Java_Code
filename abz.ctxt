@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=abz
+comment1.params=
+comment1.target=abz()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=int\ check()
+comment4.params=
+comment4.target=void\ area()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

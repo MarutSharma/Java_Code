@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=child
+comment1.params=
+comment1.target=void\ input1()
+comment2.params=
+comment2.target=void\ display1()
+comment3.params=
+comment3.target=void\ input2()
+comment4.params=
+comment4.target=void\ process()
+comment5.params=
+comment5.target=void\ display2()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
